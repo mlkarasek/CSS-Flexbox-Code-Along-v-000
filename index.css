@@ -22,12 +22,12 @@ footer {
   width: 100%;
 }
 
-.flex-container {
+.flex-container class="item setWidth" {
   display: flex;
   width: 100vw;
   height: 100vh;
   flex-direction: column;
-  class="item setWidth"
+
 }
 
 main {
